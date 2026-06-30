@@ -39,6 +39,6 @@ This repository contains the full exploratory analysis workflow as outlined in t
 ---
 
 ## 🛠️ How to Run the Notebook
-1. Clone this repository or download the `week1-ds-assignment.ipynb` file.
+1. Clone this repository or download the `TayyabDS_W1.ipynb` file.
 2. Open the file in **Google Colab** or any local Jupyter Notebook environment.
 3. Run the cells sequentially to observe the outputs and corresponding data interpretations.
