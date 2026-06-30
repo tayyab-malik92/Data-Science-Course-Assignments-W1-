@@ -1,7 +1,7 @@
 # Data-Science-Course-Assignments-W1-
 
 **Topic:** Pandas First-Look Protocol & Exploratory Data Analysis (EDA)  
-**Mentor:** Laiba Sattar (laeba0014@gmail.com)
+
 
 ---
 
@@ -9,7 +9,7 @@
 * **Name:** Muhammad Tayyab Malik  
 * **Course:** Data Science Internship (Week 1)  
 * **Environment Used:** Google Colab (.ipynb)
-
+**Mentor:** Laiba Sattar 
 ---
 
 ## 📊 Dataset Profile
