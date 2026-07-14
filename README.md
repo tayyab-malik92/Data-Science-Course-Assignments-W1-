@@ -1,16 +1,6 @@
-# Data-Science-Course-Assignments-W1-
+# Data-Science-
 
 **Topic:** Pandas First-Look Protocol & Exploratory Data Analysis (EDA)  
-
-
----
-
-## 👤 Student Information
-* **Name:** Muhammad Tayyab Malik  
-* **Course:** Data Science Internship (Week 1)  
-* **Environment Used:** Google Colab (.ipynb)
-**Mentor:** Laiba Sattar 
----
 
 ## 📊 Dataset Profile
 * **Dataset Chosen:** Netflix Movies & Shows  
